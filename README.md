@@ -43,8 +43,6 @@ git clone `https://github.com/uahmad235/information_retrieval.git`
 
 `cd information_retrieval`
 
-`pip install -r requirements.txt`
-
 ## Usage
 
 ### 2) Run Jupyter Notebook and open the desired notebook:
